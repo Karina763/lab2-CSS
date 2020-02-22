@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<title>Лабораторна робота №1. Мова HTML. </title>
+<meta charset = "UTF-8">
+</head>
+<body>
+<div id = "b1">
+<div id = "b2"> 
+  <img src = "https://linchakin.com/files/word/1000/437/1.jpg" alt = "логотип"> 
+  <h1> Крокуй в ногу з часом! </h1> 
+  <h2> Перевірь свої можливості </h2> 
+  </div>
+<div id = "b3">
+  <ul> 
+  <li>  <a href = "https://linchakin.com/%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C/%D0%B8/%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0/"> Інформаціїні технології </a> </li> 
+  <li>  <a href = "https://karina763.github.io/Site/index.html"> Сайт-звіт з інформатика за I семестр </a> </li>
+  <li>  <a href = "https://html5book.ru/html-tags"> Атрибути тегів  </a> </li>
+    </ul>
+</div>
+  <div id = "b4">  
+<p> Congratulations </p>
+<p> How are you? </p>
+<p> Good luck to you! </p>
+</div> 
+<div id = "b5"></div> 
+<div id = "b6">
+  <table border="1">
+<tr>
+<td colspan="2">Математика 6 клас</td>
+<td>Всього</td>
+</tr>
+<tr>
+<td>Тема 1 Дроби </td>
+<td> ст. 28-29 </td>
+<td rowspan="2">ст.28-35</td>  
+</tr>
+<tr>
+<td>Основна властивість дробів</td>
+<td> ст. 34-35</td>
+</tr>
+</table>
+  </div>
+<div id = "b7">
+ &copy; Мелешко Карина 2020 
+</div>
+</div>
+
+
+</body>
+</html>
